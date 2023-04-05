@@ -2,4 +2,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/floricultura-loja
     username: root
-    password: roo
+    password: root
