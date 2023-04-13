@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/floricultura-transportador
+    url: jdbc:mysql://localhost:3306/floricultura-transportador?useTimezone=true&serverTimezone=UTC
     username: root
     password: root
